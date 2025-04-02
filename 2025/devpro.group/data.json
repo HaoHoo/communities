@@ -1,0 +1,37 @@
+https://www.meetup.com/microsoft-ai-azure-eastchina-meetup-group/events/307061467
+
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "haohoo"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "devpro.group",
+    "Country": "China",
+    "Url": "https://www.meetup.com/microsoft-ai-azure-eastchina-meetup-group/events/307061467",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "devpro.group community logo.",
+      "File": "devprogroup.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Reactor",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Address": "No.192 Build-J, TianLin Rd., XuHui District",
+        "Latitude": 31.1689536,
+        "Longitude": 121.4087996
+      }
+    ]
+  }
+}
